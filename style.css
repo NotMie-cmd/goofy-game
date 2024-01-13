@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    size: 90px;
+}
+
+p{
+    font-display: none;
+    text-align: center;
+}
+
+a{
+     text-align: right;
+     background-size: 3mm ;
+     padding: 34px;
+     text-shadow: black;
+     font-size: large;
+     background: linear-gradient(to left, rgb(213, 127, 28), rgb(151,50,50));
+}
+body{
+    background: linear-gradient(to left, rgb(212, 126, 27), rgb(150, 49, 49))
+}
